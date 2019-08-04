@@ -1,0 +1,14 @@
+@media all and (min-width:1024px) {
+  .nav{
+    font-size:19px;
+    &_main{
+      .b-social{
+        margin-left:20px;
+      }
+    }
+    &__item{
+      padding:0 40px;
+    }
+  }
+
+}
